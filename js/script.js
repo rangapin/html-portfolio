@@ -18,7 +18,7 @@ $(document).ready(function() {
   });
 
   var typed = new Typed(".typed", {
-    strings: ["Software Engineer.", "Web Developer.", "Student."],
+    strings: ["Software Engineer.", "Web Developer.", "BSc Student."],
     typeSpeed: 70,
     loop: true,
     startDelay: 1000,
@@ -27,7 +27,7 @@ $(document).ready(function() {
 
   $('.owl-carousel').owlCarousel({
       loop:true,
-      items: 4,
+      items: 6,
       responsive:{
           0:{
               items:1

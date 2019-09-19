@@ -5,6 +5,10 @@ body {
     letter-spacing: 1px;
 }
 
+.aboutMe {
+  line-height: 3;
+}
+
 .overlay {
   width: 100%;
   height: 100%;
